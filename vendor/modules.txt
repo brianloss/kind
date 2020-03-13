@@ -1,0 +1,30 @@
+# github.com/BurntSushi/toml v0.3.1
+github.com/BurntSushi/toml
+# github.com/alessio/shellescape v0.0.0-20190409004728-b115ca0f9053
+github.com/alessio/shellescape
+# github.com/evanphx/json-patch v4.5.0+incompatible
+github.com/evanphx/json-patch
+# github.com/inconshreveable/mousetrap v1.0.0
+github.com/inconshreveable/mousetrap
+# github.com/mattn/go-isatty v0.0.12
+github.com/mattn/go-isatty
+# github.com/pelletier/go-toml v1.6.0
+github.com/pelletier/go-toml
+# github.com/pkg/errors v0.9.1
+github.com/pkg/errors
+# github.com/spf13/cobra v0.0.5
+github.com/spf13/cobra
+# github.com/spf13/pflag v1.0.5
+github.com/spf13/pflag
+# golang.org/x/sys v0.0.0-20200116001909-b77594299b42
+golang.org/x/sys/unix
+# gopkg.in/yaml.v2 v2.2.8
+gopkg.in/yaml.v2
+# gopkg.in/yaml.v3 v3.0.0-20200121175148-a6ecf24a6d71
+gopkg.in/yaml.v3
+# k8s.io/apimachinery v0.17.0
+k8s.io/apimachinery/pkg/util/errors
+k8s.io/apimachinery/pkg/util/sets
+k8s.io/apimachinery/pkg/util/version
+# sigs.k8s.io/yaml v1.2.0
+sigs.k8s.io/yaml
